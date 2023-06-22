@@ -19,7 +19,9 @@ body{
     background:var(--color-scheme);
     
 }
-
+.page-container{
+    overflow-x:hidden;
+}
 
 #container-one{
     background: url("../images/images/phone-background.png");
