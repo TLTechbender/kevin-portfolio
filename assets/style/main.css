@@ -75,13 +75,13 @@ nav {
     background-color: #ff004f;
     width: 50%;
     transition: 0.3s;
-    display: none;
+    /* display: none; */
     
 }
 
 .open-menu{
     right: 0;
-    display: block;
+    /* display: block; */
 }
 
 nav ul li a{
