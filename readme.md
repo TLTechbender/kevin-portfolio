@@ -4,7 +4,7 @@ So I just decided to attempt this today and I was actually quite suprised by how
 
 This project was Inspired by a youtube video I came across some months ago, I didn't follow the style guide in the video, I just took screenshots and vibed with it.
  ```
-[a link] (https://www.youtube.com/watch?v=0YFrGy_mzjY)
+ (https://www.youtube.com/watch?v=0YFrGy_mzjY)
  ```
 ## Installation
  To install:
